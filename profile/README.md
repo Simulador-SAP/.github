@@ -12,6 +12,14 @@ Com uma interface de usuário intuitiva e animada, o simulador torna o aprendiza
 
 ---
 
+## 👩 Integrantes
+- Barbára Marcella Inácio da Silva
+- Igor Vidal Meneghini
+- Isabela Demaria Costa Braga
+- Sofia Melo do Prado Rocha Duque
+
+  ---
+
 ## 🚀 Funcionalidades Principais
 
 - **Editor de Código Assembly**: Escreva seu próprio código assembly SAP diretamente no aplicativo.
