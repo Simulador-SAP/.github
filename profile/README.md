@@ -128,7 +128,11 @@ O aplicativo é desenvolvido em **Flutter**, utilizando **Dart**. A estrutura do
 ---
 
 ## 📹 Vídeo Demonstrativo
-
+<p align="center">
+	<a href="https://youtube.com/shorts/TubGbwAnDkA?feature=share">
+		<img src="https://raw.githubusercontent.com/isabeladcb/.github/main/imagens/logotipoSAP.jpeg" width="500" alt="Logotipo do Simulador SAP">
+	</a>
+</p>
 ---
 
 > Projeto desenvolvido para **arquitetura de computadores I**.
