@@ -1,4 +1,4 @@
-@@ -1,7 +1,10 @@
+
 # Projeto-Simulador-SAP
 💻 SAP Microcontroller Simulator
 
