@@ -127,4 +127,8 @@ O aplicativo é desenvolvido em **Flutter**, utilizando **Dart**. A estrutura do
 
 ---
 
+## 📹 Vídeo Demonstrativo
+
+---
+
 > Projeto desenvolvido para **arquitetura de computadores I**.
