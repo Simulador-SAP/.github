@@ -129,11 +129,8 @@ O aplicativo é desenvolvido em **Flutter**, utilizando **Dart**. A estrutura do
 
 ## 📹 Vídeo Demonstrativo
 
-<p align="center">
-	<a href="https://youtube.com/shorts/TubGbwAnDkA?si=45Jl4ZbDBZQUlAhz">
-		<img src="https://imgur.com/a/F6fW7tJ" width="500" alt="Logotipo do Simulador SAP">
-	</a>
-</p>
+**Link do vídeo:**
+https://youtube.com/shorts/TubGbwAnDkA?si=45Jl4ZbDBZQUlAhz
 
 ---
 
