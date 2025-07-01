@@ -3,9 +3,11 @@
 Um simulador interativo construído em Flutter que emula o funcionamento básico de um microcontrolador SAP (Simple As Possible). Este aplicativo permite aos usuários escrever código assembly simples, compilá-lo e observar a execução passo a passo ou automaticamente, visualizando as mudanças nos registradores, memória e flags.
 
 ✨ Visão Geral
+
 Este projeto oferece uma ferramenta educacional para entender a arquitetura de computadores e o ciclo de instrução de uma CPU de forma prática e visual. Com uma interface de usuário intuitiva e animada, o simulador torna o aprendizado sobre o processamento de instruções e o fluxo de dados em um microcontrolador muito mais acessível.
 
 🚀 Funcionalidades Principais
+
 Editor de Código Assembly: Escreva seu próprio código assembly SAP diretamente no aplicativo.
 Compilador Integrado: Converte o código assembly em instruções executáveis, com validação básica de sintaxe e operandos.
 Execução Passo a Passo: Avance uma instrução por vez para observar detalhadamente o impacto em cada componente do microcontrolador.
@@ -26,6 +28,7 @@ Tela de Boas-Vindas (Splash Screen): Uma tela inicial estilosa com gradiente e u
 Design Responsivo: Interface otimizada para diferentes tamanhos de tela (desktop, tablet, mobile).
 
 🖥️ Instruções Suportadas (Assembly SAP)
+
 O simulador suporta um conjunto simplificado de instruções assembly, perfeito para fins didáticos:
 | Instrução | Descrição | Exemplo |
 | LDA <addr> | Load Accumulator: Carrega o valor da posição de memória <addr> no registrador ACC. | LDA 14 |
@@ -39,6 +42,7 @@ Comentários: Linhas que começam com // ou que contêm // após a instrução s
 Dados: Números sem opcode no início da linha são interpretados como dados e carregados sequencialmente na memória após as instruções.
 
 ⚙️ Como o Código Funciona
+
 O aplicativo é desenvolvido em Flutter, utilizando a linguagem Dart. A estrutura do código é modular e segue as boas práticas do framework.
 Estrutura do Projeto
 main.dart: O ponto de entrada principal do aplicativo.
@@ -82,24 +86,25 @@ _buildInstructionLine(): Renderiza cada linha de instrução compilada, destacan
 Diálogos Informativos: _showInfoDialogBlocks() e _showInfoDialogAbout() fornecem informações úteis sobre os blocos funcionais e o simulador.
 
 🎨 Estilização e Design
+
 O aplicativo emprega um design limpo e funcional com ênfase na clareza visual para a simulação:
 Paleta de Cores: Combinação de tons de teal e deepPurple para um visual moderno e educacional.
 Tipografia: Source Code Pro da Google Fonts é usado para o texto principal, garantindo alta legibilidade para o código e os valores numéricos.
 Animações: AnimatedContainer, AnimatedSwitcher e AnimatedOpacity são empregados para criar transições suaves e destaques visuais que guiam o usuário através do ciclo de execução.
 Sombras e Arredondamento: Card e Button com elevação e cantos arredondados proporcionam uma sensação de profundidade e polimento.
 Gradientes: Utilizados na SplashScreen e nos botões para um toque estético.
+
 🛠️ Como Executar o Projeto
+
 Para configurar e executar este projeto em sua máquina local, siga os passos abaixo:
 Pré-requisitos
 Flutter SDK: Certifique-se de ter o Flutter SDK instalado. Se não tiver, siga as instruções em flutter.dev/docs/get-started/install.
 Editor de Código: Um editor como VS Code ou Android Studio com os plugins Flutter e Dart instalados.
 Passos de Instalação
 Clone o Repositório:
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone https://github.com/Simulador-SAP
 cd sap_microcontroller_simulator # Ou o nome da pasta do seu projeto
 
-
-(Substitua <URL_DO_SEU_REPOSITORIO> pelo URL real do seu repositório Git.)
 Instale as Dependências:
 No diretório raiz do projeto, execute:
 flutter pub get
