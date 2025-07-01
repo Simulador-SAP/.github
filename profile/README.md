@@ -127,4 +127,4 @@ O aplicativo é desenvolvido em **Flutter**, utilizando **Dart**. A estrutura do
 
 ---
 
-> Projeto desenvolvido com foco em **educação tecnológica**, **simulação visual** e **acessibilidade ao aprendizado de arquitetura de computadores**.
+> Projeto desenvolvido para **arquitetura de computadores I**.
