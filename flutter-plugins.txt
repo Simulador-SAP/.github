@@ -1,0 +1,25 @@
+# This is a generated file; do not edit or check into version control.
+audioplayers=/home/usuario/.pub-cache/hosted/pub.dev/audioplayers-6.1.0/
+audioplayers_android=/home/usuario/.pub-cache/hosted/pub.dev/audioplayers_android-5.0.0/
+audioplayers_darwin=/home/usuario/.pub-cache/hosted/pub.dev/audioplayers_darwin-6.0.0/
+audioplayers_linux=/home/usuario/.pub-cache/hosted/pub.dev/audioplayers_linux-4.0.0/
+audioplayers_web=/home/usuario/.pub-cache/hosted/pub.dev/audioplayers_web-5.0.1/
+audioplayers_windows=/home/usuario/.pub-cache/hosted/pub.dev/audioplayers_windows-4.0.0/
+flutter_native_splash=/home/usuario/.pub-cache/hosted/pub.dev/flutter_native_splash-2.4.3/
+flutter_plugin_android_lifecycle=/home/usuario/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.26/
+google_maps_flutter=/home/usuario/.pub-cache/hosted/pub.dev/google_maps_flutter-2.10.1/
+google_maps_flutter_android=/home/usuario/.pub-cache/hosted/pub.dev/google_maps_flutter_android-2.14.13/
+google_maps_flutter_ios=/home/usuario/.pub-cache/hosted/pub.dev/google_maps_flutter_ios-2.15.2/
+google_maps_flutter_web=/home/usuario/.pub-cache/hosted/pub.dev/google_maps_flutter_web-0.5.12/
+path_provider=/home/usuario/.pub-cache/hosted/pub.dev/path_provider-2.1.5/
+path_provider_android=/home/usuario/.pub-cache/hosted/pub.dev/path_provider_android-2.2.15/
+path_provider_foundation=/home/usuario/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1/
+path_provider_linux=/home/usuario/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+path_provider_windows=/home/usuario/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/
+url_launcher=/home/usuario/.pub-cache/hosted/pub.dev/url_launcher-6.3.1/
+url_launcher_android=/home/usuario/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.14/
+url_launcher_ios=/home/usuario/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.2/
+url_launcher_linux=/home/usuario/.pub-cache/hosted/pub.dev/url_launcher_linux-3.2.1/
+url_launcher_macos=/home/usuario/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.2/
+url_launcher_web=/home/usuario/.pub-cache/hosted/pub.dev/url_launcher_web-2.3.3/
+url_launcher_windows=/home/usuario/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.3/
