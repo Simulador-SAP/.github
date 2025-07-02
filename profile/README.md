@@ -14,9 +14,7 @@ Com uma interface de usuário intuitiva e animada, o simulador torna o aprendiza
 
 ## 👩 Integrantes
 - Barbára Marcella Inácio da Silva
-- Igor Vidal Meneghini
 - Isabela Demaria Costa Braga
-- Sofia Melo do Prado Rocha Duque
 
   ---
 
