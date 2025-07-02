@@ -134,4 +134,10 @@ https://youtube.com/shorts/TubGbwAnDkA?si=45Jl4ZbDBZQUlAhz
 
 ---
 
+## 👾 WEB APP
+**Link web app:**
+https://anaa-5ef90.web.app/
+
+---
+
 > Projeto desenvolvido para **arquitetura de computadores I**.
